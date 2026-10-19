@@ -1,0 +1,15 @@
+/home/hp/Documentos/Git/ProGitForProgrammers/ProGitForProgrammers/bin/Debug/net10.0/ProGitForProgrammers
+/home/hp/Documentos/Git/ProGitForProgrammers/ProGitForProgrammers/bin/Debug/net10.0/ProGitForProgrammers.deps.json
+/home/hp/Documentos/Git/ProGitForProgrammers/ProGitForProgrammers/bin/Debug/net10.0/ProGitForProgrammers.runtimeconfig.json
+/home/hp/Documentos/Git/ProGitForProgrammers/ProGitForProgrammers/bin/Debug/net10.0/ProGitForProgrammers.dll
+/home/hp/Documentos/Git/ProGitForProgrammers/ProGitForProgrammers/bin/Debug/net10.0/ProGitForProgrammers.pdb
+/home/hp/Documentos/Git/ProGitForProgrammers/ProGitForProgrammers/obj/Debug/net10.0/ProGitForProgrammers.GeneratedMSBuildEditorConfig.editorconfig
+/home/hp/Documentos/Git/ProGitForProgrammers/ProGitForProgrammers/obj/Debug/net10.0/ProGitForProgrammers.AssemblyInfoInputs.cache
+/home/hp/Documentos/Git/ProGitForProgrammers/ProGitForProgrammers/obj/Debug/net10.0/ProGitForProgrammers.AssemblyInfo.cs
+/home/hp/Documentos/Git/ProGitForProgrammers/ProGitForProgrammers/obj/Debug/net10.0/ProGitForProgrammers.csproj.CoreCompileInputs.cache
+/home/hp/Documentos/Git/ProGitForProgrammers/ProGitForProgrammers/obj/Debug/net10.0/ProGitForProgrammers.sourcelink.json
+/home/hp/Documentos/Git/ProGitForProgrammers/ProGitForProgrammers/obj/Debug/net10.0/ProGitForProgrammers.dll
+/home/hp/Documentos/Git/ProGitForProgrammers/ProGitForProgrammers/obj/Debug/net10.0/refint/ProGitForProgrammers.dll
+/home/hp/Documentos/Git/ProGitForProgrammers/ProGitForProgrammers/obj/Debug/net10.0/ProGitForProgrammers.pdb
+/home/hp/Documentos/Git/ProGitForProgrammers/ProGitForProgrammers/obj/Debug/net10.0/ProGitForProgrammers.genruntimeconfig.cache
+/home/hp/Documentos/Git/ProGitForProgrammers/ProGitForProgrammers/obj/Debug/net10.0/ref/ProGitForProgrammers.dll
